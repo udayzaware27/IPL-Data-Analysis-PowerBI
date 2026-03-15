@@ -29,8 +29,11 @@ The dashboard provides insights into:
 
 ---
 
-## Dashboard
+## Dashboard Preview
 
+![IPL Dashboard](dashboard.png)
+
+---
 
 ## Files Included
 - IPL Data Analysis Dashboard.pbix
@@ -38,6 +41,8 @@ The dashboard provides insights into:
 - deliveries.csv
 - Project Report (PDF)
 - Presentation (PPT)
+
+---
 
 ## Insights
 - Mumbai Indians appear among the most successful IPL teams
